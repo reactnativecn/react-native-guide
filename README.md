@@ -12,7 +12,7 @@ https://github.com/ecomfe/react-native-cn
 * react.js快速入门教程-阮一峰
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
-*react-native第一课
+* react-native第一课
 http://html-js.com/article/2783
 
 * 深入浅出 React Native：使用 JavaScript 构建原生应用
