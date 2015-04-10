@@ -15,7 +15,7 @@ http://reactjs.cn/
 * react.js入门教程(gitbook)
 http://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
-* react.js快速入门教程（推荐） - 阮一峰
+* **react.js快速入门教程 - 阮一峰**
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
 * react.js视频教程
@@ -52,7 +52,7 @@ http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 
 ## 开源APP
 
-> 实战研究源码也是一个很好的学习方式
+> 研究源码也是一个很好的学习方式
 
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
@@ -99,7 +99,7 @@ https://github.com/voronianski/EightTracksReactNative
 * React-Native实现的计算器
 https://github.com/yoxisem544/Calculator-using-React-Native
 
-* 房产搜索app
+* **房产搜索app**
 https://github.com/jawee/react-native-PropertyFinder
 
 * 知乎专栏app
@@ -118,8 +118,7 @@ http://facebook.github.io/react-native/
 http://react-china.org/
 
 
-* **React-native组件库** （比较全的组件库）
-
+* **React-native组件库**（比较全的组件库）
 http://react.parts/
 
 * **React Native Modules** 
