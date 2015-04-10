@@ -1,6 +1,10 @@
 # React-Native学习指南
 本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
 
+同时还有Awesome React-Native系列
+
+https://github.com/jondot/awesome-react-native
+
 ## 教程
 
 * react-native 官方api文档
