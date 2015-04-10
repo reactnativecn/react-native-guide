@@ -142,7 +142,7 @@ http://react-china.org/
 http://react.parts/
 
 * **React Native Modules** 
-React Native Modules
+http://reactnativemodules.com/
 
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
