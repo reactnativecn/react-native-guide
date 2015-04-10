@@ -50,8 +50,10 @@ http://www.xn--cnq920ntha.cn/archives/235#6838470-tsina-1-17436-6a377b1a66595f9e
 http://herman.asia/building-a-flashcard-app-with-react-native
 
 * Use React Native in Existing iOS App
-
 http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
+
+* tcomb-form-native使用视频教程(需翻墙)
+http://react.rocks/example/tcomb-form-native
 
 
 ## 开源APP
@@ -69,6 +71,12 @@ https://github.com/iSimar/HackerNews-React-Native
 
 * React-Native新闻客户端
 https://github.com/tabalt/ReactNativeNews
+
+* **newswatch(新闻客户端)**
+https://github.com/bradoyler/newswatch-react-native
+
+* **buyscreen(购买页面)**
+https://github.com/appintheair/react-native-buyscreen
 
 * **V2EX客户端**
 https://github.com/samuel1112/v2er
@@ -111,6 +119,14 @@ https://github.com/LeezQ/react-native-zhihu-app
 
 * ForeignExchangeApp
 https://github.com/peralmq/ForeignExchangeApp
+
+## 工具
+
+* react-native-snippets(代码提示)
+https://github.com/Shrugs/react-native-snippets
+
+* react-native-babel(使用ES6+)
+https://github.com/roman01la/react-native-babel
 
 
 ## 资源网站
