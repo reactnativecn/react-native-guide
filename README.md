@@ -148,6 +148,8 @@ http://reactnativemodules.com/
 http://www.oschina.net/news/61214/11-react-native-ui-components
 
 ## 业界讨论
+* 跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）
+http://onevcat.com/2015/03/cross-platform/
 
 * 谈谈 React Native - 唐巧
 http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
