@@ -129,6 +129,24 @@ http://react.parts/
 * **React Native Modules** 
 http://reactnativemodules.com/
 
+* React Native Router
+https://github.com/t4t5/react-native-router
+
+* 下拉刷新组件
+https://github.com/jsdf/react-native-refreshable-listview
+
+* 模态框
+https://github.com/brentvatne/react-native-modal
+
+* react-native-navbar
+https://github.com/Kureev/react-native-navbar
+
+* 滚动轮播组件
+https://github.com/appintheair/react-native-looped-carousel
+
+* HTML显示组件
+https://github.com/jsdf/react-native-htmlview 
+
 ## 工具
 
 * react-native-snippets(代码提示)
@@ -136,6 +154,9 @@ https://github.com/Shrugs/react-native-snippets
 
 * react-native-babel(使用ES6+)
 https://github.com/roman01la/react-native-babel
+
+* sqlite for react-native
+https://github.com/almost/react-native-sqlite
 
 
 ## 资源网站
