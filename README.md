@@ -120,6 +120,9 @@ https://github.com/LeezQ/react-native-zhihu-app
 * ForeignExchangeApp
 https://github.com/peralmq/ForeignExchangeApp
 
+* Segmentfault 客户端
+https://github.com/fakefish/sf-react-native
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
