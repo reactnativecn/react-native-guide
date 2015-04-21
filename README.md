@@ -7,9 +7,21 @@ https://github.com/jondot/awesome-react-native
 
 ## 教程
 
+<<<<<<< HEAD
+* **React-Native视频教程(部分免费)**
+https://egghead.io/technologies/react
+
 * react-native 官方api文档
 http://facebook.github.io/react-native/docs/getting-started.html
 
+* react-native中文文档(极客学院)
+http://wiki.jikexueyuan.com/project/react-native/
+
+=======
+* react-native 官方api文档
+http://facebook.github.io/react-native/docs/getting-started.html
+
+>>>>>>> ff5543ac997b7024de17ec3da79c4ea64d714f0f
 * react-native 中文api文档 (翻译中)
 https://github.com/ecomfe/react-native-cn
 
@@ -55,6 +67,12 @@ http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 * tcomb-form-native使用视频教程(需翻墙)
 http://react.rocks/example/tcomb-form-native
 
+<<<<<<< HEAD
+* React Native分享记录
+http://segmentfault.com/a/1190000002678782
+
+=======
+>>>>>>> ff5543ac997b7024de17ec3da79c4ea64d714f0f
 
 ## 开源APP
 
@@ -123,6 +141,18 @@ https://github.com/peralmq/ForeignExchangeApp
 * Segmentfault 客户端
 https://github.com/fakefish/sf-react-native
 
+<<<<<<< HEAD
+* 糗事百科app
+https://github.com/stormhouse/QiuShiReactNative
+
+* 孢子社区app
+https://github.com/Hi-Rube/baoz-ReactNative
+
+* **深JS app** *
+https://github.com/fraserxu/shenjs
+
+=======
+>>>>>>> ff5543ac997b7024de17ec3da79c4ea64d714f0f
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
@@ -191,4 +221,8 @@ http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
 http://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
+<<<<<<< HEAD
 http://div.io/topic/938
+=======
+http://div.io/topic/938
+>>>>>>> ff5543ac997b7024de17ec3da79c4ea64d714f0f
