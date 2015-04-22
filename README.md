@@ -152,7 +152,7 @@ http://react.parts/
 * **React Native Modules** 
 http://reactnativemodules.com/
 
-* 最佳轮播类组件
+* **最佳轮播类组件**
 https://github.com/leecade/react-native-swiper
 
 * React Native Router
