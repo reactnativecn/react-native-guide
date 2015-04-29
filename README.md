@@ -74,6 +74,9 @@ http://segmentfault.com/a/1190000002678782
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
 
+* **Leanote for iOS(云笔记)**
+https://github.com/leanote/leanote-ios
+
 * **ReactNativeRubyChina**
 https://github.com/henter/ReactNativeRubyChina
 
