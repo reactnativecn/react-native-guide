@@ -61,11 +61,20 @@ http://herman.asia/building-a-flashcard-app-with-react-native
 * Use React Native in Existing iOS App
 http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 
+* React Native For Beginners – The Next Big Thing?
+http://devdactic.com/react-native-for-beginners/
+
+* How To Implement A Tab Bar With React Native
+http://devdactic.com/react-native-tab-bar/
+
 * tcomb-form-native使用视频教程(需翻墙)
 http://react.rocks/example/tcomb-form-native
 
 * React Native分享记录
 http://segmentfault.com/a/1190000002678782
+
+* React Native构建本地视图组件
+http://www.dobest.me/post/react-native-build-native-componenets/
 
 ## 开源APP
 
@@ -152,7 +161,7 @@ https://github.com/fraserxu/shenjs
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
 
-* **React Native Modules** 
+* **React Native Modules**
 http://reactnativemodules.com/
 
 * **最佳轮播类组件**
@@ -174,7 +183,7 @@ https://github.com/Kureev/react-native-navbar
 https://github.com/appintheair/react-native-looped-carousel
 
 * HTML显示组件
-https://github.com/jsdf/react-native-htmlview 
+https://github.com/jsdf/react-native-htmlview
 
 ## 工具
 
@@ -187,7 +196,7 @@ https://github.com/roman01la/react-native-babel
 * sqlite for react-native
 https://github.com/almost/react-native-sqlite
 
-* gulp-react-native-css(就像写css一样写React Style) 
+* gulp-react-native-css(就像写css一样写React Style)
 https://github.com/soliury/gulp-react-native-css
 
 
@@ -203,7 +212,7 @@ http://react-china.org/
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
 
-* **React Native Modules** 
+* **React Native Modules**
 http://reactnativemodules.com/
 
 * 11款React Native开源移动 UI 组件
