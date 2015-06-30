@@ -83,6 +83,9 @@ http://www.dobest.me/post/react-native-build-native-componenets/
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
 
+* react-native-dribbble-app
+https://github.com/catalinmiron/react-native-dribbble-app
+
 * **Leanote for iOS(云笔记)**
 https://github.com/leanote/leanote-ios
 
@@ -155,6 +158,9 @@ https://github.com/Hi-Rube/baoz-ReactNative
 * **深JS app** *
 https://github.com/fraserxu/shenjs
 
+* Den - 房屋销售app*
+https://github.com/asamiller/den
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
@@ -208,7 +214,6 @@ http://facebook.github.io/react-native/
 * **React-China社区**
 http://react-china.org/
 
-
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
 
@@ -230,3 +235,6 @@ http://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
 http://div.io/topic/938
+
+* Native与Web的融合 - Qcon中React-Native演讲
+http://www.infoq.com/cn/presentations/the-fusion-of-native-and-web
