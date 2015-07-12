@@ -7,7 +7,7 @@ https://github.com/jondot/awesome-react-native
 
 ## 教程
 
-# React Native
+### React Native
 
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
@@ -66,7 +66,7 @@ http://segmentfault.com/a/1190000002678782
 * React Native构建本地视图组件
 http://www.dobest.me/post/react-native-build-native-componenets/
 
-** 深入浅出系列教程 **
+### 深入浅出系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
 http://www.infoq.com/cn/articles/react-art-of-simplity
@@ -83,7 +83,7 @@ https://fakefish.github.io/react-webpack-cookbook
 * Flex 布局语法教程
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
-# React.js
+### React.js
 
 * react.js中文文档
 http://reactjs.cn/
@@ -97,7 +97,7 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 * react.js视频教程
 http://react.nodejs-china.org/t/reactjszhong-wen-shi-pin-jiao-cheng-bai-du-wang-pan/584
 
-# ES6
+### ES6
 
 * 深入浅出ES6（一）：ES6是什么
 http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
