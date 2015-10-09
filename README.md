@@ -80,6 +80,9 @@ http://www.infoq.com/cn/articles/react-and-webpack
 * 深入浅出React（三）：理解JSX和组件
 http://www.infoq.com/cn/articles/react-jsx-and-component
 
+* 深入浅出React（四）：虚拟DOM Diff算法解析
+http://www.infoq.com/cn/articles/react-dom-diff
+
 * react-webpack-cookbook中文版
 https://fakefish.github.io/react-webpack-cookbook
 
