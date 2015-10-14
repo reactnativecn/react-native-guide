@@ -69,6 +69,9 @@ http://segmentfault.com/a/1190000002678782
 * React Native构建本地视图组件
 http://www.dobest.me/post/react-native-build-native-componenets/
 
+* react-native-android-lession(安卓系列教程)
+https://github.com/yipengmu/react-native-android-lession
+
 ### 深入浅出系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
