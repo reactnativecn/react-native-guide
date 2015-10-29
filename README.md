@@ -126,7 +126,7 @@ http://www.infoq.com/cn/articles/es6-in-depth-template-string
 * 深入浅出ES6（五）：不定参数和默认参数
 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 
-### React Native探索 系列
+### React Native探索系列教程
 
 * React Native探索（一）：背景、规划和风险
 http://www.infoq.com/cn/articles/react-native-overview
