@@ -72,6 +72,12 @@ https://github.com/yipengmu/react-native-android-lession
 * React Native模块桥接详解
 http://www.dobest.me/post/react-native-bridge/
 
+* React Native: 配置和起步
+http://www.liaohuqiu.net/cn/posts/react-native-1/
+
+* React Native: Android 的打包
+http://www.liaohuqiu.net/cn/posts/react-native-android-package/
+
 ### 深入浅出系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
