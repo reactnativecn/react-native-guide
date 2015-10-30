@@ -45,9 +45,6 @@ http://segmentfault.com/a/1190000002645929
 * React Native 基础练习指北（二）
 http://segmentfault.com/a/1190000002647733
 
-* 构建一个简单的列表页和2页导航
-http://www.xn--cnq920ntha.cn/archives/235#6838470-tsina-1-17436-6a377b1a66595f9ede646cf5c012734c
-
 * Diary of Building an iOS App with React Native
 http://herman.asia/building-a-flashcard-app-with-react-native
 
