@@ -98,6 +98,27 @@ https://fakefish.github.io/react-webpack-cookbook
 * Flex 布局语法教程
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
+* React 初探
+http://www.alloyteam.com/2015/04/react-explore/
+ 
+* React虚拟DOM浅析
+http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/
+ 
+* react组件间通信
+http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/
+ 
+* React 数据流管理架构之 Redux 介绍
+http://www.alloyteam.com/2015/09/react-redux/
+ 
+* React服务器端渲染实践小结
+http://www.alloyteam.com/2015/10/8783/
+ 
+* React Native Android 踩坑之旅
+http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
+ 
+* React Native 之 JSBridge
+http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
+
 ### React.js
 
 * react.js中文文档
