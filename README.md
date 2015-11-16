@@ -93,7 +93,7 @@ http://www.infoq.com/cn/articles/react-jsx-and-component
 http://www.infoq.com/cn/articles/react-dom-diff
 
 * react-webpack-cookbook中文版
-https://fakefish.github.io/react-webpack-cookbook
+http://fakefish.github.io/react-webpack-cookbook/
 
 * Flex 布局语法教程
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
@@ -125,13 +125,13 @@ http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 http://reactjs.cn/
 
 * react.js入门教程(gitbook)
-http://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
 * **react.js快速入门教程 - 阮一峰**
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
 * react.js视频教程
-http://react.nodejs-china.org/t/reactjszhong-wen-shi-pin-jiao-cheng-bai-du-wang-pan/584
+http://react.nodejs-china.org/t/reactjs/584
 
 ### ES6
 
@@ -202,7 +202,7 @@ https://github.com/muratsu/react-native-beer
 https://github.com/86/react-native-stars
 
 * **模仿天猫首页的app**
-https://github.com/baofen14787/react-native-demo
+https://github.com/hugohua/react-native-demo
 
 * ReactNativeChess
 https://github.com/csarsam/ReactNativeChess
@@ -289,7 +289,7 @@ https://github.com/jsdf/react-native-refreshable-listview
 https://github.com/brentvatne/react-native-modal
 
 * react-native-navbar
-https://github.com/Kureev/react-native-navbar
+https://github.com/react-native-fellowship/react-native-navbar
 
 * 滚动轮播组件
 https://github.com/appintheair/react-native-looped-carousel
