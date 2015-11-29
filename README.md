@@ -320,6 +320,9 @@ http://facebook.github.io/react-native/
 * **React-China社区**
 http://react-china.org/
 
+* **React Native中文社区**
+http://bbs.react-native.cn/
+
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
 
