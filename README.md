@@ -21,9 +21,6 @@ http://facebook.github.io/react-native/docs/getting-started.html
 * react-native中文文档(极客学院)
 http://wiki.jikexueyuan.com/project/react-native/
 
-* react-native 官方api文档
-http://facebook.github.io/react-native/docs/getting-started.html
-
 * react-native 中文api文档 (翻译中)
 https://github.com/ecomfe/react-native-cn
 
