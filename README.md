@@ -267,6 +267,9 @@ https://github.com/7kfpun/FinanceReactNative
 * shopping - 购物app
 https://github.com/bigsui/shopping-react-native
 
+* zhuiyuan - 追源cms app
+https://github.com/kazaff/ZhuiYuanDemo
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
