@@ -270,6 +270,9 @@ https://github.com/bigsui/shopping-react-native
 * zhuiyuan - 追源cms app
 https://github.com/kazaff/ZhuiYuanDemo
 
+* uestc-bbs-react-native - UESTC清水河畔RN客户端(with Redux)
+https://github.com/just4fun/uestc-bbs-react-native
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
