@@ -341,6 +341,8 @@ http://www.reactnative.com/
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
 
+* 稀土掘金的 React 标签 http://gold.xitu.io/#/tag/React.js http://gold.xitu.io/#/tag/React%20Native
+
 ## 业界讨论
 * 跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）
 http://onevcat.com/2015/03/cross-platform/
