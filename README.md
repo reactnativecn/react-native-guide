@@ -5,6 +5,18 @@
 
 https://github.com/jondot/awesome-react-native
 
+# 目录
+* [教程](#教程)
+ * [React Native](#react-native)
+ * [React.js](#reactjs)
+ * [ES6](#es6)
+ * [系列教程](#系列教程)
+* [开源APP](#开源app)
+* [组件](#组件)
+* [工具](#工具)
+* [资源网站](#资源网站)
+* [业界讨论](#业界讨论)
+
 ## 教程
 
 ### React Native
@@ -75,6 +87,37 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
+### React.js
+
+* react.js中文文档
+http://reactjs.cn/
+
+* react.js入门教程(gitbook)
+https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+
+* **react.js快速入门教程 - 阮一峰**
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+* react.js视频教程
+http://react.nodejs-china.org/t/reactjs/584
+
+### ES6
+
+* 深入浅出ES6（一）：ES6是什么
+http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
+
+* 深入浅出ES6（二）：迭代器和for-of循环
+http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop
+
+* 深入浅出ES6（三）：生成器 Generators
+http://www.infoq.com/cn/articles/es6-in-depth-generators
+
+* 深入浅出ES6（四）：模板字符串
+http://www.infoq.com/cn/articles/es6-in-depth-template-string
+
+* 深入浅出ES6（五）：不定参数和默认参数
+http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
+
 ### 系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
@@ -118,37 +161,6 @@ http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
  
 * React Native 之 JSBridge
 http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
-
-### React.js
-
-* react.js中文文档
-http://reactjs.cn/
-
-* react.js入门教程(gitbook)
-https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
-
-* **react.js快速入门教程 - 阮一峰**
-http://www.ruanyifeng.com/blog/2015/03/react.html
-
-* react.js视频教程
-http://react.nodejs-china.org/t/reactjs/584
-
-### ES6
-
-* 深入浅出ES6（一）：ES6是什么
-http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
-
-* 深入浅出ES6（二）：迭代器和for-of循环
-http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop
-
-* 深入浅出ES6（三）：生成器 Generators
-http://www.infoq.com/cn/articles/es6-in-depth-generators
-
-* 深入浅出ES6（四）：模板字符串
-http://www.infoq.com/cn/articles/es6-in-depth-template-string
-
-* 深入浅出ES6（五）：不定参数和默认参数
-http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 
 ### React Native探索系列教程
 
@@ -276,6 +288,9 @@ https://github.com/kazaff/ZhuiYuanDemo
 * uestc-bbs-react-native - UESTC清水河畔RN客户端(with Redux)
 https://github.com/just4fun/uestc-bbs-react-native
 
+* **react-native-nw-react-calculator**(iOS/Android、Web、桌面多端)
+https://github.com/benoitvallon/react-native-nw-react-calculator
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
@@ -320,6 +335,8 @@ https://github.com/almost/react-native-sqlite
 * gulp-react-native-css(就像写css一样写React Style)
 https://github.com/soliury/gulp-react-native-css
 
+* rnpm(React Native Package Manager)
+https://github.com/rnpm/rnpm
 
 ## 资源网站
 
@@ -344,7 +361,7 @@ http://www.reactnative.com/
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
 
-* 稀土掘金的 React 标签
+* **稀土掘金的 React 标签**
 http://gold.xitu.io/#/tag/React.js http://gold.xitu.io/#/tag/React%20Native
 
 ## 业界讨论
