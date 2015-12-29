@@ -75,7 +75,7 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
-### 深入浅出系列教程
+### 系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
 http://www.infoq.com/cn/articles/react-art-of-simplity
@@ -88,6 +88,9 @@ http://www.infoq.com/cn/articles/react-jsx-and-component
 
 * 深入浅出React（四）：虚拟DOM Diff算法解析
 http://www.infoq.com/cn/articles/react-dom-diff
+
+* 深入浅出React（五）：使用Flux搭建React应用程序架构
+http://www.infoq.com/cn/articles/react-flux
 
 * react-webpack-cookbook中文版
 http://fakefish.github.io/react-webpack-cookbook/
