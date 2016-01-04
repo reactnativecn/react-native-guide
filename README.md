@@ -87,6 +87,9 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
+* [深入ReactNative]第一篇 通讯及消息循环代码剖析
+http://www.jianshu.com/p/269b21958030
+
 ### React.js
 
 * react.js中文文档
