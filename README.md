@@ -73,13 +73,13 @@ http://react.rocks/example/tcomb-form-native
 http://segmentfault.com/a/1190000002678782
 
 * React Native构建本地视图组件
-http://www.dobest.me/post/react-native-build-native-componenets/
+https://www.dobest.me/article/11
 
 * react-native-android-lession(安卓系列教程)
 https://github.com/yipengmu/react-native-android-lession
 
 * React Native模块桥接详解
-http://www.dobest.me/post/react-native-bridge/
+https://www.dobest.me/article/14
 
 * React Native: 配置和起步
 http://www.liaohuqiu.net/cn/posts/react-native-1/
