@@ -87,6 +87,9 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
+* react-native的第一课
+https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
+
 ### React.js
 
 * react.js中文文档
