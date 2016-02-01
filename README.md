@@ -187,7 +187,7 @@ https://github.com/facebook/react-native/tree/master/Examples
 https://github.com/catalinmiron/react-native-dribbble-app
 
 * **Leanote for iOS(云笔记)**
-https://github.com/leanote/leanote-ios
+https://github.com/leanote/leanote-ios-rn
 
 * **ReactNativeRubyChina**
 https://github.com/henter/ReactNativeRubyChina
