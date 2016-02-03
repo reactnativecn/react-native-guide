@@ -186,6 +186,9 @@ https://github.com/facebook/react-native/tree/master/Examples
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
 
+* **Gank.io客户端**
+https://github.com/Bob1993/React-Native-Gank  
+
 * **Leanote for iOS(云笔记)**
 https://github.com/leanote/leanote-ios-rn
 
