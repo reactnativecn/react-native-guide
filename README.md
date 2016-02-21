@@ -21,6 +21,9 @@ https://github.com/jondot/awesome-react-native
 
 ### React Native
 
+* **React-Native专题系列文章不断更新ing(入门,组件,Api,开源项目)-最近比较火-**
+http://www.lcode.org/react-native/
+
 * **React-Native入门指南**
 https://github.com/vczero/react-native-lession
 
