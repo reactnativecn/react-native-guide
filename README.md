@@ -25,7 +25,7 @@ https://github.com/jondot/awesome-react-native
 http://www.lcode.org/react-native/
 
 * **React-Native入门指南**
-https://github.com/vczero/react-native-lession
+https://github.com/vczero/react-native-lesson
 
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
@@ -49,13 +49,13 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19996445
 http://blog.cnbang.net/tech/2698/
 
 * React Native布局篇
-http://segmentfault.com/a/1190000002658374
+https://segmentfault.com/a/1190000002658374
 
 * React Native 基础练习指北（一）
-http://segmentfault.com/a/1190000002645929
+https://segmentfault.com/a/1190000002645929
 
 * React Native 基础练习指北（二）
-http://segmentfault.com/a/1190000002647733
+https://segmentfault.com/a/1190000002647733
 
 * Diary of Building an iOS App with React Native
 http://herman.asia/building-a-flashcard-app-with-react-native
@@ -64,16 +64,16 @@ http://herman.asia/building-a-flashcard-app-with-react-native
 http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 
 * React Native For Beginners – The Next Big Thing?
-http://devdactic.com/react-native-for-beginners/
+https://devdactic.com/react-native-for-beginners/
 
 * How To Implement A Tab Bar With React Native
-http://devdactic.com/react-native-tab-bar/
+https://devdactic.com/react-native-tab-bar/
 
 * tcomb-form-native使用视频教程(需翻墙)
-http://react.rocks/example/tcomb-form-native
+https://react.rocks/example/tcomb-form-native
 
 * React Native分享记录
-http://segmentfault.com/a/1190000002678782
+https://segmentfault.com/a/1190000002678782
 
 * React Native构建本地视图组件
 https://www.dobest.me/article/11
@@ -105,7 +105,7 @@ https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
 * react.js视频教程
-http://react.nodejs-china.org/t/reactjs/584
+http://react-china.org/t/reactjs/584
 
 ### ES6
 
@@ -387,7 +387,7 @@ http://onevcat.com/2015/03/cross-platform/
 http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
 
 * 如何评价React-Native?
-http://www.zhihu.com/question/27852694/answer/43990708
+https://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
 http://div.io/topic/938
