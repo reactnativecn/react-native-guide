@@ -309,6 +309,9 @@ https://github.com/benoitvallon/react-native-nw-react-calculator
 * react-native-nba-app
 https://github.com/wwayne/react-native-nba-app
 
+* react-Douban-app
+https://github.com/edagarli/React-Douban
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
