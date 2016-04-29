@@ -5,12 +5,27 @@
 
 https://github.com/jondot/awesome-react-native
 
+# 目录
+* [教程](#教程)
+ * [React Native](#react-native)
+ * [React.js](#reactjs)
+ * [ES6](#es6)
+ * [系列教程](#系列教程)
+* [开源APP](#开源app)
+* [组件](#组件)
+* [工具](#工具)
+* [资源网站](#资源网站)
+* [业界讨论](#业界讨论)
+
 ## 教程
 
 ### React Native
 
+* **React-Native专题系列文章不断更新ing(入门,组件,Api,开源项目)-最近比较火-**
+http://www.lcode.org/react-native/
+
 * **React-Native入门指南**
-https://github.com/vczero/react-native-lession
+https://github.com/vczero/react-native-lesson
 
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
@@ -21,11 +36,8 @@ http://facebook.github.io/react-native/docs/getting-started.html
 * react-native中文文档(极客学院)
 http://wiki.jikexueyuan.com/project/react-native/
 
-* react-native 官方api文档
-http://facebook.github.io/react-native/docs/getting-started.html
-
-* react-native 中文api文档 (翻译中)
-https://github.com/ecomfe/react-native-cn
+* react-native中文文档(react native中文网，人工翻译，官网完全同步)
+http://react-native.cn/docs/getting-started.html
 
 * react-native第一课
 http://html-js.com/article/2783
@@ -37,13 +49,13 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19996445
 http://blog.cnbang.net/tech/2698/
 
 * React Native布局篇
-http://segmentfault.com/a/1190000002658374
+https://segmentfault.com/a/1190000002658374
 
 * React Native 基础练习指北（一）
-http://segmentfault.com/a/1190000002645929
+https://segmentfault.com/a/1190000002645929
 
 * React Native 基础练习指北（二）
-http://segmentfault.com/a/1190000002647733
+https://segmentfault.com/a/1190000002647733
 
 * Diary of Building an iOS App with React Native
 http://herman.asia/building-a-flashcard-app-with-react-native
@@ -52,25 +64,25 @@ http://herman.asia/building-a-flashcard-app-with-react-native
 http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
 
 * React Native For Beginners – The Next Big Thing?
-http://devdactic.com/react-native-for-beginners/
+https://devdactic.com/react-native-for-beginners/
 
 * How To Implement A Tab Bar With React Native
-http://devdactic.com/react-native-tab-bar/
+https://devdactic.com/react-native-tab-bar/
 
 * tcomb-form-native使用视频教程(需翻墙)
-http://react.rocks/example/tcomb-form-native
+https://react.rocks/example/tcomb-form-native
 
 * React Native分享记录
-http://segmentfault.com/a/1190000002678782
+https://segmentfault.com/a/1190000002678782
 
 * React Native构建本地视图组件
-http://www.dobest.me/post/react-native-build-native-componenets/
+https://www.dobest.me/article/11
 
 * react-native-android-lession(安卓系列教程)
 https://github.com/yipengmu/react-native-android-lession
 
 * React Native模块桥接详解
-http://www.dobest.me/post/react-native-bridge/
+https://www.dobest.me/article/14
 
 * React Native: 配置和起步
 http://www.liaohuqiu.net/cn/posts/react-native-1/
@@ -78,46 +90,11 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
-### 深入浅出系列教程
+* react-native的第一课
+https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
-* 深入浅出React（一）：React的设计哲学 - 简单之美
-http://www.infoq.com/cn/articles/react-art-of-simplity
-
-* 深入浅出React（二）：React开发神器Webpack
-http://www.infoq.com/cn/articles/react-and-webpack
-
-* 深入浅出React（三）：理解JSX和组件
-http://www.infoq.com/cn/articles/react-jsx-and-component
-
-* 深入浅出React（四）：虚拟DOM Diff算法解析
-http://www.infoq.com/cn/articles/react-dom-diff
-
-* react-webpack-cookbook中文版
-https://fakefish.github.io/react-webpack-cookbook
-
-* Flex 布局语法教程
-http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
-
-* React 初探
-http://www.alloyteam.com/2015/04/react-explore/
- 
-* React虚拟DOM浅析
-http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/
- 
-* react组件间通信
-http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/
- 
-* React 数据流管理架构之 Redux 介绍
-http://www.alloyteam.com/2015/09/react-redux/
- 
-* React服务器端渲染实践小结
-http://www.alloyteam.com/2015/10/8783/
- 
-* React Native Android 踩坑之旅
-http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
- 
-* React Native 之 JSBridge
-http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
+* **构建 Facebook F8 2016 App / React Native 开发指南**
+http://f8-app.liaohuqiu.net/
 
 ### React.js
 
@@ -125,13 +102,13 @@ http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 http://reactjs.cn/
 
 * react.js入门教程(gitbook)
-http://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
 * **react.js快速入门教程 - 阮一峰**
 http://www.ruanyifeng.com/blog/2015/03/react.html
 
 * react.js视频教程
-http://react.nodejs-china.org/t/reactjszhong-wen-shi-pin-jiao-cheng-bai-du-wang-pan/584
+http://react-china.org/t/reactjs/584
 
 ### ES6
 
@@ -149,6 +126,50 @@ http://www.infoq.com/cn/articles/es6-in-depth-template-string
 
 * 深入浅出ES6（五）：不定参数和默认参数
 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
+
+### 系列教程
+
+* 深入浅出React（一）：React的设计哲学 - 简单之美
+http://www.infoq.com/cn/articles/react-art-of-simplity
+
+* 深入浅出React（二）：React开发神器Webpack
+http://www.infoq.com/cn/articles/react-and-webpack
+
+* 深入浅出React（三）：理解JSX和组件
+http://www.infoq.com/cn/articles/react-jsx-and-component
+
+* 深入浅出React（四）：虚拟DOM Diff算法解析
+http://www.infoq.com/cn/articles/react-dom-diff
+
+* 深入浅出React（五）：使用Flux搭建React应用程序架构
+http://www.infoq.com/cn/articles/react-flux
+
+* react-webpack-cookbook中文版
+http://fakefish.github.io/react-webpack-cookbook/
+
+* Flex 布局语法教程
+http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
+* React 初探
+http://www.alloyteam.com/2015/04/react-explore/
+
+* React虚拟DOM浅析
+http://www.alloyteam.com/2015/10/react-virtual-analysis-of-the-dom/
+
+* react组件间通信
+http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/
+
+* React 数据流管理架构之 Redux 介绍
+http://www.alloyteam.com/2015/09/react-redux/
+
+* React服务器端渲染实践小结
+http://www.alloyteam.com/2015/10/8783/
+
+* React Native Android 踩坑之旅
+http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
+
+* React Native 之 JSBridge
+http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 
 ### React Native探索系列教程
 
@@ -168,11 +189,17 @@ http://www.infoq.com/cn/articles/react-native-web
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
 
+* **Facebook F8 App**
+https://github.com/fbsamples/f8app
+
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
 
+* **Gank.io客户端**
+https://github.com/Bob1993/React-Native-Gank  
+
 * **Leanote for iOS(云笔记)**
-https://github.com/leanote/leanote-ios
+https://github.com/leanote/leanote-ios-rn
 
 * **ReactNativeRubyChina**
 https://github.com/henter/ReactNativeRubyChina
@@ -202,7 +229,7 @@ https://github.com/muratsu/react-native-beer
 https://github.com/86/react-native-stars
 
 * **模仿天猫首页的app**
-https://github.com/baofen14787/react-native-demo
+https://github.com/hugohua/react-native-demo
 
 * ReactNativeChess
 https://github.com/csarsam/ReactNativeChess
@@ -267,7 +294,22 @@ https://github.com/qddegtya/A-ReactNative-TesterHome
 * Finance - 股票报价app
 https://github.com/7kfpun/FinanceReactNative
 
-* 开源中国的Git@OSC客户端 
+* shopping - 购物app
+https://github.com/bigsui/shopping-react-native
+
+* zhuiyuan - 追源cms app
+https://github.com/kazaff/ZhuiYuanDemo
+
+* uestc-bbs-react-native - UESTC清水河畔RN客户端(with Redux)
+https://github.com/just4fun/uestc-bbs-react-native
+
+* **react-native-nw-react-calculator**(iOS/Android、Web、桌面多端)
+https://github.com/benoitvallon/react-native-nw-react-calculator
+
+* react-native-nba-app
+https://github.com/wwayne/react-native-nba-app
+
+* 开源中国的Git@OSC客户端
 http://git.oschina.net/rplees/react-native-gitosc
 
 ## 组件
@@ -292,13 +334,19 @@ https://github.com/jsdf/react-native-refreshable-listview
 https://github.com/brentvatne/react-native-modal
 
 * react-native-navbar
-https://github.com/Kureev/react-native-navbar
+https://github.com/react-native-fellowship/react-native-navbar
 
 * 滚动轮播组件
 https://github.com/appintheair/react-native-looped-carousel
 
 * HTML显示组件
 https://github.com/jsdf/react-native-htmlview
+
+* **Material React Native (MRN)** - Material Design组件库
+https://github.com/binggg/mrn
+
+* react-native-gitfeed - GitHub客户端(iOS/Android)
+https://github.com/xiekw2010/react-native-gitfeed
 
 ## 工具
 
@@ -314,6 +362,8 @@ https://github.com/almost/react-native-sqlite
 * gulp-react-native-css(就像写css一样写React Style)
 https://github.com/soliury/gulp-react-native-css
 
+* rnpm(React Native Package Manager)
+https://github.com/rnpm/rnpm
 
 ## 资源网站
 
@@ -322,6 +372,9 @@ http://facebook.github.io/react-native/
 
 * **React-China社区**
 http://react-china.org/
+
+* **React Native中文社区**
+http://bbs.react-native.cn/
 
 * **React-native组件库**（比较全的组件库）
 http://react.parts/
@@ -335,6 +388,9 @@ http://www.reactnative.com/
 * 11款React Native开源移动 UI 组件
 http://www.oschina.net/news/61214/11-react-native-ui-components
 
+* **稀土掘金的 React 标签**
+http://gold.xitu.io/#/tag/React.js http://gold.xitu.io/#/tag/React%20Native
+
 ## 业界讨论
 * 跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）
 http://onevcat.com/2015/03/cross-platform/
@@ -343,7 +399,7 @@ http://onevcat.com/2015/03/cross-platform/
 http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
 
 * 如何评价React-Native?
-http://www.zhihu.com/question/27852694/answer/43990708
+https://www.zhihu.com/question/27852694/answer/43990708
 
 * React Native概述：背景、规划和风险
 http://div.io/topic/938
