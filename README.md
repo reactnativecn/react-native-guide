@@ -294,7 +294,6 @@ https://github.com/qddegtya/A-ReactNative-TesterHome
 * Finance - 股票报价app
 https://github.com/7kfpun/FinanceReactNative
 
-<<<<<<< HEAD
 * shopping - 购物app
 https://github.com/bigsui/shopping-react-native
 
