@@ -93,6 +93,9 @@ http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 * react-native的第一课
 https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
+* **构建 Facebook F8 2016 App / React Native 开发指南**
+http://f8-app.liaohuqiu.net/
+
 ### React.js
 
 * react.js中文文档
@@ -185,6 +188,9 @@ http://www.infoq.com/cn/articles/react-native-web
 
 * 官方演示App
 https://github.com/facebook/react-native/tree/master/Examples
+
+* **Facebook F8 App**
+https://github.com/fbsamples/f8app
 
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
