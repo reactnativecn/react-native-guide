@@ -21,8 +21,8 @@ https://github.com/jondot/awesome-react-native
 
 ### React Native
 
-* **React-Native专题系列文章不断更新ing(入门,组件,Api,开源项目)-最近比较火-**
-http://www.lcode.org/react-native/
+* **构建 Facebook F8 2016 App / React Native 开发指南**
+http://f8-app.liaohuqiu.net/
 
 * **React-Native入门指南**
 https://github.com/vczero/react-native-lesson
@@ -93,8 +93,8 @@ http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 * react-native的第一课
 https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
-* **构建 Facebook F8 2016 App / React Native 开发指南**
-http://f8-app.liaohuqiu.net/
+* **React-Native专题系列文章
+http://www.lcode.org/react-native/
 
 ### React.js
 
