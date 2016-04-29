@@ -93,7 +93,7 @@ http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 * react-native的第一课
 https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
-* **React-Native专题系列文章
+* React-Native专题系列文章
 http://www.lcode.org/react-native/
 
 ### React.js
