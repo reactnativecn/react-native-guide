@@ -1,8 +1,7 @@
 # React-Native学习指南
 本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
 
-同时还有Awesome React-Native系列
-
+同时还有Awesome React Native系列
 https://github.com/jondot/awesome-react-native
 
 # 目录
@@ -12,6 +11,7 @@ https://github.com/jondot/awesome-react-native
  * [ES6](#es6)
  * [系列教程](#系列教程)
 * [开源APP](#开源app)
+* [图书](#图书)
 * [组件](#组件)
 * [工具](#工具)
 * [资源网站](#资源网站)
@@ -311,6 +311,13 @@ https://github.com/wwayne/react-native-nba-app
 
 * 开源中国的Git@OSC客户端
 http://git.oschina.net/rplees/react-native-gitosc
+
+## 图书
+* 《React Native入门与实战》
+http://item.jd.com/11844102.html
+
+* 《React Native：用JavaScript开发移动应用》
+http://item.jd.com/11785195.html
 
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
