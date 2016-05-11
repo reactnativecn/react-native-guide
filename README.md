@@ -316,7 +316,7 @@ http://git.oschina.net/rplees/react-native-gitosc
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
 * **React-native组件库**（比较全的组件库）
-http://react.parts/
+https://js.coach/
 
 * **React Native Modules**
 http://reactnativemodules.com/
