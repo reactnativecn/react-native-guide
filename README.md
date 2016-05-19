@@ -90,6 +90,12 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
+* ReactNative之原生模块开发并发布——iOS篇
+http://www.liuchungui.com/blog/2016/05/02/reactnativezhi-yuan-sheng-mo-kuai-kai-fa-bing-fa-bu-iospian/
+
+* ReactNative之原生模块开发并发布——android篇
+http://www.liuchungui.com/blog/2016/05/08/reactnativezhi-yuan-sheng-mo-kuai-kai-fa-bing-fa-bu-androidpian/
+
 * react-native的第一课
 https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
