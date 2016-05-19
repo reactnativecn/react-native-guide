@@ -331,8 +331,11 @@ http://reactnativemodules.com/
 * **最佳轮播类组件**
 https://github.com/leecade/react-native-swiper
 
-* React Native Router
-https://github.com/t4t5/react-native-router
+* react-native-simple-router
+https://github.com/react-native-simple-router-community/react-native-simple-router
+
+* react-native-router-flux
+https://github.com/aksonov/react-native-router-flux
 
 * 下拉刷新组件
 https://github.com/jsdf/react-native-refreshable-listview
