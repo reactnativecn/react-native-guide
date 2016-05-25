@@ -387,6 +387,9 @@ https://github.com/soliury/gulp-react-native-css
 * rnpm(React Native Package Manager)
 https://github.com/rnpm/rnpm
 
+* Pepperoni - React Native项目初始化套件
+https://github.com/futurice/pepperoni-app-kit
+
 ## 资源网站
 
 * React-native官网
