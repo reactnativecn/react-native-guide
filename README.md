@@ -390,6 +390,9 @@ https://github.com/rnpm/rnpm
 * Pepperoni - React Native项目初始化套件
 https://github.com/futurice/pepperoni-app-kit
 
+* **Deco IDE - React Native IDE**
+https://www.decosoftware.com/
+
 ## 资源网站
 
 * React-native官网
