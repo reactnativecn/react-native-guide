@@ -201,6 +201,9 @@ https://github.com/facebook/react-native/tree/master/Examples
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
 
+* 奇舞周刊 iOS 版（上架应用）
+https://github.com/fakefish/Weekly75
+
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
 
