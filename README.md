@@ -105,6 +105,9 @@ https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_firs
 * React-Native专题系列文章
 http://www.lcode.org/react-native/
 
+* 超详细React Native实现微信好友/朋友圈分享功能-Android/iOS双平台通用
+http://www.lcode.org/%E8%B6%85%E8%AF%A6%E7%BB%86react-native%E5%AE%9E%E7%8E%B0%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%88%86%E4%BA%AB%E5%8A%9F%E8%83%BD-androidios%E5%8F%8C%E5%B9%B3%E5%8F%B0/
+
 ### React.js
 
 * react.js中文文档
@@ -437,3 +440,6 @@ http://div.io/topic/938
 
 * Native与Web的融合 - Qcon中React-Native演讲
 http://www.infoq.com/cn/presentations/the-fusion-of-native-and-web
+
+* 使用React Native一年后的感受
+http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/
