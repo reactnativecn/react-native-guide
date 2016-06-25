@@ -334,6 +334,9 @@ http://item.jd.com/11844102.html
 * 《React Native开发指南》
 http://www.ituring.com.cn/book/1846
 
+* 《React Native跨平台移动应用开发》
+http://item.jd.com/10372998311.html
+
 * 《React Native：用JavaScript开发移动应用》
 http://item.jd.com/11785195.html
 
