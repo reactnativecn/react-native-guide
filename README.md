@@ -402,6 +402,9 @@ https://github.com/futurice/pepperoni-app-kit
 * **Deco IDE - React Native IDE**
 https://www.decosoftware.com/
 
+* **ignite - React Native CLI项目生成器**
+https://github.com/infinitered/ignite
+
 ## 资源网站
 
 * React-native官网
