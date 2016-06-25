@@ -331,6 +331,9 @@ https://github.com/liuchungui/rn_bycloud
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
 
+* 《React Native开发指南》
+http://www.ituring.com.cn/book/1846
+
 * 《React Native：用JavaScript开发移动应用》
 http://item.jd.com/11785195.html
 
