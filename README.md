@@ -329,6 +329,9 @@ https://github.com/liuchungui/rn_bycloud
 
 * ReactNativeRollingExamples - react-native的一些example https://github.com/joggerplus/ReactNativeRollingExamples
 
+* **Reading App Write In React-Native（Studying and Programing**
+https://github.com/attentiveness/reading
+
 
 ## 图书
 * 《React Native入门与实战》
