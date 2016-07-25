@@ -455,3 +455,8 @@ http://www.infoq.com/cn/presentations/the-fusion-of-native-and-web
 
 * 使用React Native一年后的感受
 http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/
+
+* Weex & ReactNative & JSPatch大对比
+http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+* weex&ReactNative对比
+https://zhuanlan.zhihu.com/p/21677103
