@@ -105,6 +105,9 @@ https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_firs
 * React-Native专题系列文章
 http://www.lcode.org/react-native/
 
+* [React Native 开发培训（中文，免费）视频教程 ★238]
+https://www.gitbook.com/book/unbug/react-native-training/details
+
 ### React.js
 
 * react.js中文文档
