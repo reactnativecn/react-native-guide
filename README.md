@@ -33,6 +33,9 @@ https://github.com/fangwei716/30-days-of-react-native
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
 
+* **React Native 开发培训视频教程（中文|免费）**
+https://www.gitbook.com/book/unbug/react-native-training/details
+
 * react-native 官方api文档
 http://facebook.github.io/react-native/docs/getting-started.html
 
@@ -104,9 +107,6 @@ https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_firs
 
 * React-Native专题系列文章
 http://www.lcode.org/react-native/
-
-* [React Native 开发培训（中文，免费）视频教程 ★238]
-https://www.gitbook.com/book/unbug/react-native-training/details
 
 ### React.js
 
