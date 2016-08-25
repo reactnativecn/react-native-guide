@@ -335,6 +335,9 @@ https://github.com/liuchungui/rn_bycloud
 * **Reading App Write In React-Native（Studying and Programing**
 https://github.com/attentiveness/reading
 
+* 数独 - 重拾纯粹数独的乐趣
+https://github.com/nihgwu/react-native-sudoku
+
 
 ## 图书
 * 《React Native入门与实战》
