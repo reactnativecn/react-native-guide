@@ -338,6 +338,8 @@ https://github.com/attentiveness/reading
 * 数独 - 重拾纯粹数独的乐趣
 https://github.com/nihgwu/react-native-sudoku
 
+* Shop-React-Native
+https://github.com/EleTeam/Shop-React-Native
 
 ## 图书
 * 《React Native入门与实战》
@@ -390,6 +392,9 @@ https://github.com/binggg/mrn
 
 * react-native-gitfeed - GitHub客户端(iOS/Android)
 https://github.com/xiekw2010/react-native-gitfeed
+
+* **React-Native-Elements** - React Native样式组件库
+https://github.com/react-native-community/React-Native-Elements
 
 ## 工具
 
