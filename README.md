@@ -66,9 +66,6 @@ https://segmentfault.com/a/1190000002647733
 * Diary of Building an iOS App with React Native
 http://herman.asia/building-a-flashcard-app-with-react-native
 
-* Use React Native in Existing iOS App
-http://blog-en.leapoahead.com/post/use-react-native-in-existing-ios-app
-
 * React Native For Beginners – The Next Big Thing?
 https://devdactic.com/react-native-for-beginners/
 
