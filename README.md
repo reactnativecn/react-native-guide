@@ -122,6 +122,9 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 * react.js视频教程
 http://react-china.org/t/reactjs/584
 
+* React Native之React速学教程
+https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%E4%B9%8BReact%E9%80%9F%E5%AD%A6%E6%95%99%E7%A8%8B
+
 ### ES6
 
 * 深入浅出ES6（一）：ES6是什么
@@ -183,6 +186,9 @@ http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
 * React Native 之 JSBridge
 http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 
+* React Native 研究与实践教程
+https://github.com/crazycodeboy/RNStudyNotes
+
 ### React Native探索系列教程
 
 * React Native探索（一）：背景、规划和风险
@@ -203,6 +209,9 @@ https://github.com/facebook/react-native/tree/master/Examples
 
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
+
+* **GitHub Popular(一个用来查看GitHub最受欢迎与最热项目的App)已上架**
+https://github.com/crazycodeboy/GitHubPopular
 
 * 奇舞周刊 iOS 版（上架应用）
 https://github.com/fakefish/Weekly75
