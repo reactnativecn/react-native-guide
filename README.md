@@ -375,7 +375,8 @@ http://git.oschina.net/rplees/react-native-gitosc
 * rn_bycloud 帮瀛律师端app
 https://github.com/liuchungui/rn_bycloud
 
-* ReactNativeRollingExamples - react-native的一些example https://github.com/joggerplus/ReactNativeRollingExamples
+* ReactNativeRollingExamples
+https://github.com/joggerplus/ReactNativeRollingExamples
 
 * **Reading App Write In React-Native（Studying and Programing**
 https://github.com/attentiveness/reading
@@ -385,6 +386,9 @@ https://github.com/nihgwu/react-native-sudoku
 
 * Shop-React-Native
 https://github.com/EleTeam/Shop-React-Native
+
+* **掘金客户端**
+https://github.com/wangdicoder/JueJinClient
 
 ## 图书
 * 《React Native入门与实战》
