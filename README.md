@@ -105,6 +105,9 @@ https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_firs
 * React-Native专题系列文章
 http://www.lcode.org/react-native/
 
+* react native redux FeInn 从0到1让你学会搭建一个APP
+https://github.com/febobo/react-native-redux-FeInn
+
 ### React.js
 
 * react.js中文文档
