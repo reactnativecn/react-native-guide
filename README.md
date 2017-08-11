@@ -396,6 +396,9 @@ https://github.com/wangdicoder/JueJinClient
 * cnblogs 客户端
 https://github.com/togayther/react-native-cnblogs
 
+* CC 速成班
+https://github.com/1c7/CrashCourse-Chinese-ReactNative-App
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
