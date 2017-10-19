@@ -399,6 +399,9 @@ https://github.com/togayther/react-native-cnblogs
 * CC 速成班
 https://github.com/1c7/CrashCourse-Chinese-ReactNative-App
 
+* **Movieapp**
+https://github.com/junedomingo/movieapp
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
@@ -485,6 +488,9 @@ https://www.decosoftware.com/
 
 * **ignite - React Native CLI项目生成器**
 https://github.com/infinitered/ignite
+
+* **react-native-rename**
+https://github.com/junedomingo/react-native-rename
 
 ## 资源网站
 
