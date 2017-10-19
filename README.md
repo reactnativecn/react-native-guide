@@ -402,6 +402,9 @@ https://github.com/1c7/CrashCourse-Chinese-ReactNative-App
 * **Movieapp**
 https://github.com/junedomingo/movieapp
 
+* React Native Starter Kit
+https://github.com/mcnamee/react-native-starter-app
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
