@@ -430,6 +430,8 @@ http://reactnativemodules.com/
 * **最佳轮播类组件**
 https://github.com/leecade/react-native-swiper
 
+* **性能最好的大数据列表组件** 超越FlatList/SectionList: https://github.com/bolan9999/react-native-largelist
+
 * react-native-simple-router
 https://github.com/react-native-simple-router-community/react-native-simple-router
 
