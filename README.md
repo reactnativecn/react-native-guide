@@ -246,6 +246,9 @@ https://github.com/facebook/react-native/tree/master/Examples
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
 
+* **仿豆瓣APP**
+https://github.com/jianxiaoBai/douban
+
 * **GitHub Popular(一个用来查看GitHub最受欢迎与最热项目的App)已上架**
 https://github.com/crazycodeboy/GitHubPopular
 
@@ -256,7 +259,7 @@ https://github.com/fakefish/Weekly75
 https://github.com/catalinmiron/react-native-dribbble-app
 
 * **Gank.io客户端**
-https://github.com/Bob1993/React-Native-Gank  
+https://github.com/Bob1993/React-Native-Gank
 
 * **Mdcc客户端(优质)**
 https://github.com/Bob1993/mdcc-client
