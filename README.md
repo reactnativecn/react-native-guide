@@ -405,6 +405,9 @@ https://github.com/1c7/CrashCourse-Chinese-ReactNative-App
 * **Movieapp**
 https://github.com/junedomingo/movieapp
 
+* **虎扑客户端**
+https://github.com/MelonRice/ReactNative-HupuJRS
+
 * React Native Starter Kit
 https://github.com/mcnamee/react-native-starter-app
 
