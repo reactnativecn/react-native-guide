@@ -241,7 +241,7 @@ http://www.infoq.com/cn/articles/react-native-web
 > 研究源码也是一个很好的学习方式
 
 * 官方演示App
-https://github.com/facebook/react-native/tree/master/Examples
+https://github.com/fbsamples/react-native-samples
 
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
