@@ -411,6 +411,9 @@ https://github.com/MelonRice/ReactNative-HupuJRS
 * React Native Starter Kit
 https://github.com/mcnamee/react-native-starter-app
 
+* uestc-react-native-ios - 电子科技大学「UESTC」iOS 客户端（With MobX）
+https://github.com/Vizards/uestc-react-native-ios
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
@@ -553,3 +556,5 @@ http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E
 http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/
 * weex&ReactNative对比
 https://zhuanlan.zhihu.com/p/21677103
+
+
