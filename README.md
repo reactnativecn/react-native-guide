@@ -414,6 +414,9 @@ https://github.com/mcnamee/react-native-starter-app
 * uestc-react-native-ios - 电子科技大学「UESTC」iOS 客户端（With MobX）
 https://github.com/Vizards/uestc-react-native-ios
 
+* **React Native实现阅读器，模仿每日一文** *
+https://github.com/ZeeeeeeNo/ReactNativeEveryDayRead
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
