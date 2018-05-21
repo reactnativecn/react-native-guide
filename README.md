@@ -110,9 +110,6 @@ https://github.com/febobo/react-native-redux-FeInn
 
 ### React.js
 
-* react.js中文文档
-http://reactjs.cn/
-
 * react.js入门教程(gitbook)
 https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
