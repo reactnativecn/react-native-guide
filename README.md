@@ -445,6 +445,9 @@ https://github.com/react-native-simple-router-community/react-native-simple-rout
 * react-native-router-flux
 https://github.com/aksonov/react-native-router-flux
 
+* rn-fetch-blob (Actual and updated repository for react-native-fetch-blob)
+https://github.com/joltup/rn-fetch-blob
+
 * 下拉刷新组件
 https://github.com/jsdf/react-native-refreshable-listview
 
@@ -462,6 +465,9 @@ https://github.com/jsdf/react-native-htmlview
 
 * **Material React Native (MRN)** - Material Design组件库
 https://github.com/binggg/mrn
+
+* **Paper** - Material design for React Native组件库
+https://github.com/callstack/react-native-paper
 
 * react-native-gitfeed - GitHub客户端(iOS/Android)
 https://github.com/xiekw2010/react-native-gitfeed
@@ -494,6 +500,9 @@ https://github.com/rnpm/rnpm
 
 * Pepperoni - React Native项目初始化套件
 https://github.com/futurice/pepperoni-app-kit
+
+* react-native-rename (Rename Whole Package)
+https://github.com/junedomingo/react-native-rename
 
 * **Deco IDE - React Native IDE**
 https://www.decosoftware.com/
