@@ -482,7 +482,7 @@ https://github.com/shoutem/ui
 https://github.com/blankapp/ui
 
 * **React Native Bouncing Ball** - 在屏幕内弹跳球
-https://github.com/hankzhuo/react-native-bouncing-ball)
+https://github.com/hankzhuo/react-native-bouncing-ball
 
 ## 工具
 
