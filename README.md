@@ -516,6 +516,9 @@ https://github.com/infinitered/ignite
 * **react-native-rename**
 https://github.com/junedomingo/react-native-rename
 
+* **把React Native代码转换成微信小程序代码的转换工具**
+https://github.com/areslabs/alita
+
 ## 资源网站
 
 * React-native官网
