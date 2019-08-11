@@ -108,6 +108,9 @@ http://www.lcode.org/react-native/
 * react native redux FeInn 从0到1让你学会搭建一个APP
 https://github.com/febobo/react-native-redux-FeInn
 
+* react-native+redux+react-navigation 直接修改项目名可用于成熟项目开发，已集成启动屏，热更新等，已解决多种在项目中可能遇到的问题
+https://github.com/duheng/Mozi
+
 ### React.js
 
 * react.js入门教程(gitbook)
