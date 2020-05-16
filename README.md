@@ -291,6 +291,9 @@ https://github.com/muratsu/react-native-beer
 * react-native-stars
 https://github.com/86/react-native-stars
 
+* **改名可用于企业级项目的开发【此框架用于 微信电影票，猫眼电影 的部分项目】，持续维护升级**
+https://github.com/duheng/Mozi
+
 * **模仿天猫首页的app**
 https://github.com/hugohua/react-native-demo
 
